@@ -36,8 +36,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -63,8 +63,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -89,8 +89,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("@.")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -115,8 +115,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -141,8 +141,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -167,8 +167,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -193,8 +193,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
@@ -219,8 +219,8 @@ class TestUrls():
 		WebDriverWait(browser, 15).until(
 		        EC.element_to_be_clickable((By.CLASS_NAME, "light-tabs__switch")))
 		browser.find_element_by_class_name("light-tabs__switch").click()
-		browser.find_element_by_css_selector("#id_login_email").send_keys("brasskin09@gmail.com")
-		browser.find_element_by_css_selector("#id_login_password").send_keys("amper9891")
+		browser.find_element_by_css_selector("#id_login_email").send_keys("")
+		browser.find_element_by_css_selector("#id_login_password").send_keys("")
 		browser.find_element_by_css_selector("#login_form > button").click()
 		time.sleep(1.4)
 
